@@ -14,17 +14,15 @@
  *  limitations under the License.
  */
 
-import React from 'react';
-
 import './Header.css';
 
 const Header = () => {
 	return (
-        <div className='Header'>
-            <header className='Header-header'>
-			    <h1>Keeper Notes Application</h1>
-		    </header>
-        </div>
+		<div className='Header'>
+			<header className='Header-header'>
+				<h1>Keeper Notes Application</h1>
+			</header>
+		</div>
 	);
 };
 

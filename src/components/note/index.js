@@ -14,6 +14,6 @@
  *  limitations under the License.
  */
 
-import Note from "./Note";
+import Note from './Note';
 
 export default Note;
